@@ -8,7 +8,7 @@ const SECRETS = require('./SECRETS');
 const claudeClient = new Anthropic({
   apiKey: SECRETS.CLAUDE_API_KEY
 });
-
+// Add your own prompt here
 async function run() {
   const prompt = `
     As a crypto specialist, create a tweet that feels authentic and conversational about Bitcoin, crypto, and memecoin insights. 
