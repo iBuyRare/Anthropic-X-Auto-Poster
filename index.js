@@ -1,3 +1,5 @@
+// By: @iBuyRare (X)
+
 const Anthropic = require('@anthropic-ai/sdk');
 const { TwitterApi } = require('twitter-api-v2');
 const SECRETS = require('./SECRETS');
