@@ -16,6 +16,6 @@ Content Variation: Ensure each tweet is unique and impactful with AI-driven crea
 
 Performance Insights: Receive detailed analytics on tweet performance to refine and enhance your social media strategy continually.
 
-To help you get started, I've crafted a beginner-friendly blog that walks you through the setup process, making it easy to leverage Anthropic AI's capabilities for your social media strategy. With this powerful tool, elevating your online presence has never been easier. Get ready to engage, influence, and grow effortlessly!
+To help you get started, I am working on a beginner-friendly blog that walks you through the setup process, making it easy to leverage Anthropic AI's capabilities for your social media strategy. With this powerful tool, elevating your online presence has never been easier. Get ready to engage, influence, and grow effortlessly!
 
 ![](https://komarev.com/ghpvc/?username=ibuyrare)
