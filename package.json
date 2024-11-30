@@ -1,0 +1,16 @@
+{
+  "name": "auto-tweet-using-anthropic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest",
+    "twitter-api-v2": "^1.16.1"
+  }
+}
