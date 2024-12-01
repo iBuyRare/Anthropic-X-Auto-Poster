@@ -18,4 +18,6 @@ Performance Insights: Receive detailed analytics on tweet performance to refine 
 
 To help you get started, I am working on a beginner-friendly blog that walks you through the setup process, making it easy to leverage Anthropic AI's capabilities for your social media strategy. With this powerful tool, elevating your online presence has never been easier. Get ready to engage, influence, and grow effortlessly!
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ibuyrare) 
 ![](https://komarev.com/ghpvc/?username=ibuyrare)
