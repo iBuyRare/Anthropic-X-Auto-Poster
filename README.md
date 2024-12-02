@@ -1,7 +1,7 @@
 ***Supercharge Your Twitter/X Engagement with Advanced AI Automation Using Anthropic API***
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ibuyrare) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibuyrare) 
 
 In today's fast-paced digital landscape, maintaining an active social media presence is crucial for aspiring influencers, businesses, and anyone looking to boost their online visibility. The demands of consistently planning, creating, scheduling, and posting content can be overwhelming, often leading to burnout and abandoned ambitions.
 
